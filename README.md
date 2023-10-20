@@ -1,2 +1,2 @@
-# HackerRank_SQL_Challenges_Solutions
-HackerRank SQL Challenges Solutions
+# HackerRank SQL nChallenge solutions
+<!-- HackerRank SQL Challenges Solutions -->
