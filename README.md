@@ -1,4 +1,5 @@
 # HackerRank SQL Challenge solutions
+## Basic SELECT challenges
 
 |Number|	Challenge	|Query|
 |----- | -----------|-----|
