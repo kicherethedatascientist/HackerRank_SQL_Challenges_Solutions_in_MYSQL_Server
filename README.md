@@ -1,23 +1,6 @@
 # HackerRank SQL Challenge solutions
-<!-- HackerRank SQL Challenges Solutions -->
 
-## HackrRank SQL challenges and solutions
-
-my first read me file
-
-~~*Table of content:*~~
-
-1. install git
-    1. (a) in ubuntu 
-    2. kurutu@ eastc
-1. kichere magubu
-1. Bambustick
-
-## install markdown hoes for better
-
-install tools: `pip install markdown`
-```dart
-void main() {
-  print("Hello, World!");
-}
-```
+|Number|	Challenge	|Query|
+|----- | -----------|-----|
+|1     |	[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Query1](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Employee%20Salaries) |
+|2 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)|[Query2](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/SELECT%20all.sql)
