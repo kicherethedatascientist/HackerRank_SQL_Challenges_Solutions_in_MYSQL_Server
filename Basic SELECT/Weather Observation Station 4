@@ -1,0 +1,3 @@
+-- Author: Kichere The Data Scientist
+SELECT COUNT(CITY) - COUNT(DISTINCT(CITY))
+FROM STATION;
