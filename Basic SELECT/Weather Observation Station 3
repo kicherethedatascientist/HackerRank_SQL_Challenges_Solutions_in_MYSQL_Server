@@ -1,0 +1,4 @@
+-- Author: Kichere The Data Scientist
+SELECT DISTINCT CITY
+FROM STATION
+WHERE MOD(ID, 2) = 0;
