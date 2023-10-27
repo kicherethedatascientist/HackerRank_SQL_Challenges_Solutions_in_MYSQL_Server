@@ -19,3 +19,4 @@
 |14|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[Query14](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |15|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|[Query15](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |16|[Weather Observation Station 8](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|[Query16](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
+|17|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)|[Query17](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
