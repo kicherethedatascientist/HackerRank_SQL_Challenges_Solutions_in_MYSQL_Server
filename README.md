@@ -15,3 +15,4 @@
 |10|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)|[Query10](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |11|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|[query11](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |12|[Weather Observation Station 6](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|[Query12](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
+|13|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)|[Query13](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
