@@ -1,0 +1,3 @@
+-- Author: Kichdere The Data SCientist
+SELECT * FROM CITY 
+WHERE COUNTRYCODE = "JPN";
