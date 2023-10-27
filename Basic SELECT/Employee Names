@@ -1,0 +1,4 @@
+-- Author: Kichere The Data Scientist
+SELECT name 
+FROM Employee 
+ORDER BY name ASC;
