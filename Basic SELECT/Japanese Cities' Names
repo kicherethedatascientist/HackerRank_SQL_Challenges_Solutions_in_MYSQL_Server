@@ -1,0 +1,4 @@
+-- Author: Kichere The Data Scientist
+SELECT NAME 
+FROM CITY
+WHERE COUNTRYCODE = "JPN";
