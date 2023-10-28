@@ -17,6 +17,6 @@
 |12|[Weather Observation Station 6](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|[Query12](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |13|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)|[Query13](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
 |14|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[Query14](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/new/main/Basic%20SELECT)|
-
+|15|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|[Query15](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Higher%20Than%2075%20Marks)|
 
 |17|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)|[Query17](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%209)|
