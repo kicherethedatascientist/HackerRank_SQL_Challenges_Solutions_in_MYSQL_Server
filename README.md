@@ -28,11 +28,8 @@
 
 <table>
 <thead>
-<tr>
-<th align="center">Number</th>
-<th>Challenges</th>
-<th align="center">Solutions</th>
-</tr>
+<td colspan="3" align="center"> Advanced SELECT statements
+</td>
 </thead>
 <tbody>
 <tr>
