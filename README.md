@@ -23,8 +23,10 @@
 |18|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|[Query18](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%2012)|
 |19|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)|[Query19](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/tree/main/Basic%20SELECT)|
 |20|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|[Query20](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%206)|
+
+<!--
+
 <table>
-  <!--
 <thead>
 <tr>
 <th align="center">Number</th>
@@ -32,7 +34,6 @@
 <th align="center">Solutions</th>
 </tr>
 </thead>
-  -->
 <tbody>
 <tr>
 <td align="center">21</td>
@@ -61,3 +62,5 @@
 </tr>
 </tbody>
 </table>
+
+-->
