@@ -1,6 +1,7 @@
 # HackerRank SQL Challenge solutions
 ## Basic SELECT challenges
 ||Basic SELECT statement||
+<table>
 |Number|	Challenge	|Query|
 |----- | -----------|-----|
 |1     |	[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Query1](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Employee%20Salaries) |
@@ -25,8 +26,6 @@
 |20|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|[Query20](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%206)|
 
 
-
-<table>
 <thead>
 <td colspan="3" align="center"> Advanced SELECT statements
 </td>
