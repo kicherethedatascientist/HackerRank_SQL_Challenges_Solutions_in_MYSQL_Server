@@ -2,6 +2,7 @@
 ## Basic SELECT challenges
 ||Basic SELECT statement||
 <table>
+<tbody>
 |Number|	Challenge	|Query|
 |----- | -----------|-----|
 |1     |	[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Query1](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Employee%20Salaries) |
@@ -30,7 +31,7 @@
 <td colspan="3" align="center"> Advanced SELECT statements
 </td>
 </thead>
-<tbody>
+
 <tr>
 <td align="center">21</td>
 <td><a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem" rel="nofollow">Type of Triangle</a></td>
