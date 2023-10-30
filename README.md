@@ -23,3 +23,39 @@
 |18|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|[Query18](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%2012)|
 |19|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)|[Query19](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/tree/main/Basic%20SELECT)|
 |20|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|[Query20](https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Weather%20Observation%20Station%206)|
+<table>
+<thead>
+<tr>
+<th align="center">Number</th>
+<th>Challenges</th>
+<th align="center">Solutions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">21</td>
+<td><a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem" rel="nofollow">Type of Triangle</a></td>
+<td align="center"><a href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/Type%20of%20Triangle.sql">Query21</a></td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td><a href="https://www.hackerrank.com/challenges/the-pads/problem" rel="nofollow">The PADS</a></td>
+<td align="center"><a href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/The%20PADS.sql">Query22</a></td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td><a href="https://www.hackerrank.com/challenges/occupations/problem" rel="nofollow">Occupations</a></td>
+<td align="center"><a href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/Occupations.sql">Query23</a></td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td><a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem" rel="nofollow">Binary Tree Nodes</a></td>
+<td align="center"><a href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/Binary%20Tree%20Nodes.sql">Query24</a></td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td><a href="https://www.hackerrank.com/challenges/the-company/problem" rel="nofollow">New Companies</a></td>
+<td align="center"><a href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/New%20Companies.sql">Query25</a></td>
+</tr>
+</tbody>
+</table>
