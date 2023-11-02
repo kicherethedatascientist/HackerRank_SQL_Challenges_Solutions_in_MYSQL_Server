@@ -155,9 +155,10 @@
                         <td align="center">21</td>
                         <td><a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem"
                                         rel="nofollow">Type of Triangle</a></td>
-                        <td align="center"><a
-                                        href="/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Advanced%20Select/Type%20of%20Triangle.sql">Query21</a>
+                        <td align="center"> <a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/Type%20of%20Triangle">Query21</a>
                         </td>
+                        
                 </tr>
         </tbody>
 </table>
