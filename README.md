@@ -165,5 +165,22 @@
 <td><a href="https://www.hackerrank.com/challenges/the-pads/problem" rel="nofollow">The PADS</a></td>
 <td align="center"><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/The%20PADS">Query22</a></td>
 </tr>
+<!--
+<tr>
+<td align="center">23</td>
+<td><a href="https://www.hackerrank.com/challenges/occupations/problem" rel="nofollow">Occupations</a></td>
+<td align="center"><a href="">Query23</a></td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td><a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem" rel="nofollow">Binary Tree Nodes</a></td>
+<td align="center"><a href="">Query24</a></td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td><a href="https://www.hackerrank.com/challenges/the-company/problem" rel="nofollow">New Companies</a></td>
+<td align="center"><a href="">Query25</a></td>
+</tr>
+-->
         </tbody>
 </table>
