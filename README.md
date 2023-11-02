@@ -149,7 +149,7 @@
                         </td>
                 </tr>
                 <tr>
-                    <td align="center" colspan="3" background-color:rgb(255, 99, 71)>Advanced SELECT statement</td>   
+                    <td align="center" colspan="3">Advanced SELECT statement</td>   
                 </tr>
                 <tr>
                         <td align="center">21</td>
