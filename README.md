@@ -160,5 +160,10 @@
                         </td>
                         
                 </tr>
+<tr>
+<td align="center">22</td>
+<td><a href="https://www.hackerrank.com/challenges/the-pads/problem" rel="nofollow">The PADS</a></td>
+<td align="center"><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/The%20PADS">Query22</a></td>
+</tr>
         </tbody>
 </table>
