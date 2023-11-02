@@ -1,0 +1,10 @@
+-- Author: Kichere The Data Scientist
+
+SELECT CONCAT(Name, '(', LEFT(Occupation, 1), ')') AS NameWithOccupation
+FROM OCCUPATIONS 
+ORDER BY NameWithOccupation ASC;
+
+SELECT CONCAT('There are a total of ', COUNT(Occupation), ' ', LOWER(Occupation), 's.') AS occupation_count
+FROM OCCUPATIONS
+GROUP BY Occupation
+ORDER BY COUNT(Occupation), LOWER(Occupation)
