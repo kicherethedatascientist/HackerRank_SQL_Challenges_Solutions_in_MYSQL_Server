@@ -13,8 +13,8 @@
                         <td><a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true"
                                         rel="nofollow">Employee Salaries</a></td>
                         <td><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Employee%20Salaries">Query1</a>
-                        </td>
-                </tr>
+        </td>
+         </tr>
                 <tr>
                         <td>2</td>
                         <td><a href="https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true"
