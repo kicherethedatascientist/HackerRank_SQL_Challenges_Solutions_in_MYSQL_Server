@@ -187,7 +187,7 @@
                     <td align="center" colspan="3">AGGREGATION statements </td>   
                 </tr>
                 <tr>
-                        <td align="center">21</td>
+                        <td align="center">26</td>
                         <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true"
                                         rel="nofollow">The Count Function</a></td>
                         <td align="center"> <a
