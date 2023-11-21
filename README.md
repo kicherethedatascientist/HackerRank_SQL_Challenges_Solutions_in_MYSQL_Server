@@ -194,6 +194,14 @@
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20count%20function">Query26</a>
                         </td>  
                 </tr>
+ <tr>
+                        <td align="center">27</td>
+                        <td><a href="[https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)"
+                                        rel="nofollow">The Sum Function</a></td>
+                        <td align="center"> <a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20SUM%20function">Query27</a>
+                        </td>  
+ </tr>
 
         </tbody>
 </table>
