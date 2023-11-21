@@ -184,14 +184,14 @@
 -->
 
 <tr>
-                    <td align="center" colspan="3">AGGREGATION statementS </td>   
+                    <td align="center" colspan="3">AGGREGATION statements </td>   
                 </tr>
                 <tr>
                         <td align="center">21</td>
                         <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true"
-                                        rel="nofollow">Type of Triangle</a></td>
+                                        rel="nofollow">The Count Function</a></td>
                         <td align="center"> <a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/Type%20of%20Triangle">Query21</a>
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20count%20function">Query26</a>
                         </td>  
                 </tr>
 
