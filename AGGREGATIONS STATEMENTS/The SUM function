@@ -1,0 +1,5 @@
+-- Kichere The Data Scientist
+
+SELECT SUM(POPULATION)
+FROM CITY
+WHERE DISTRICT = "California";
