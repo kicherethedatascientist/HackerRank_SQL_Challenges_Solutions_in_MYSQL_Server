@@ -157,8 +157,7 @@
                                         rel="nofollow">Type of Triangle</a></td>
                         <td align="center"> <a
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/Type%20of%20Triangle">Query21</a>
-                        </td>
-                        
+                        </td>  
                 </tr>
 <tr>
 <td align="center">22</td>
@@ -183,5 +182,18 @@
 <td align="center"><a href="">Query25</a></td>
 </tr>
 -->
+
+<tr>
+                    <td align="center" colspan="3">AGGREGATION statementS </td>   
+                </tr>
+                <tr>
+                        <td align="center">21</td>
+                        <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true"
+                                        rel="nofollow">Type of Triangle</a></td>
+                        <td align="center"> <a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/Type%20of%20Triangle">Query21</a>
+                        </td>  
+                </tr>
+
         </tbody>
 </table>
