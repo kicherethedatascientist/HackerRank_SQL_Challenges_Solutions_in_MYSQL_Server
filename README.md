@@ -5,14 +5,13 @@
                         <th>Number</th>
                         <th>Challenge</th>
                         <th>Query</th>
-                </tr>
-<tr>
+                </tr>        
+ </thead>
+<body>
+        
+      <tr>
 <td align="center" colspan="3">Basic SELECT statement</td>   
-</tr>
-                
-        </thead>
-<body>   
-        <tr>
+</tr>  <tr>
                        <td align="center">1</td>
                         <td><a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true"
                                         rel="nofollow">Employee Salaries</a></td>
