@@ -1,17 +1,17 @@
 # HackerRank SQL Challenge solutions in MYSQL Server
 <table>
         <thead>
-                <tr>
-                        <th>Number</th>
+                <tr>  <th>Number</th>
                         <th>Challenge</th>
                         <th>Query</th>
                 </tr>        
  </thead>
 <body>
         
-      <tr>
+<tr>
 <td align="center" colspan="3">Basic SELECT statement</td>   
-</tr>  <tr>
+</tr>  
+<tr>
                        <td align="center">1</td>
                         <td><a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true"
                                         rel="nofollow">Employee Salaries</a></td>
