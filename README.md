@@ -9,7 +9,7 @@
 <body>
         
 <tr>
-<td align="center" colspan="3">Basic SELECT statement</td>   
+<td align="center" colspan="3" <b> >Basic SELECT statement</td>   
 </tr>  
 <tr>
                        <td align="center">1</td>
