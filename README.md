@@ -7,8 +7,8 @@
                         <th>Query</th>
                 </tr>
         </thead>
-        <tbody>
-                <tr>
+<body>   
+        <tr>
                         <td>1</td>
                         <td><a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true"
                                         rel="nofollow">Employee Salaries</a></td>
@@ -202,6 +202,7 @@
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20SUM%20function">Query27</a>
                         </td>  
  </tr>
-
-        </tbody>
+ 
+</body>
+ 
 </table>
