@@ -1,4 +1,4 @@
-# HackerRank SQL Challenge solutions
+# HackerRank SQL Challenge solutions in MYSQL Server
 <table>
         <thead>
                 <tr>
@@ -6,6 +6,10 @@
                         <th>Challenge</th>
                         <th>Query</th>
                 </tr>
+<tr>
+<td align="center" colspan="3">Basic SELECT statement</td>   
+</tr>
+                
         </thead>
 <body>   
         <tr>
