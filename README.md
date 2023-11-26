@@ -189,7 +189,7 @@
                 <tr>
                         <td align="center">26</td>
                         <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true"
-                                        rel="nofollow">The Count Function</a></td>
+                                        rel="nofollow">The COUNT Function</a></td>
                         <td align="center"> <a
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20count%20function">Query26</a>
                         </td>  
