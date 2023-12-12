@@ -76,7 +76,7 @@
                 </tr>
                 <tr>
                         <td align="center">10</td>
-                        <td><a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true"
+                        <td><a href="https://wwFAVCw.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true"
                                         rel="nofollow">Japanese Cities' Attributes</a></td>
                         <td><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Japanese%20Cities'%20Attributes">Query10</a>
                         </td>
@@ -221,9 +221,6 @@
         <td align="center"> <a
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29
 </td>  
- </tr>
-                        
-                        </td>  
  </tr>
  
 </body>
