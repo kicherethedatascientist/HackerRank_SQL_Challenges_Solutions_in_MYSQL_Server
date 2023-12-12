@@ -1,2 +1,5 @@
+-- Author: Kichere The Data Scientist
+-- MYSQL server
+
 SELECT ROUND(AVG(POPULATION)) AS AVERAGE_POPULATION
 FROM CITY;
