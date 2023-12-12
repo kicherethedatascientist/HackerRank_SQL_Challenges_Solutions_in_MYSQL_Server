@@ -219,10 +219,10 @@
                         <td align="center">29</td>
                         
                         <td><a href="[</a></td>](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)">Average Population</a></td>
-                        <td align="center"> <a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29</a>
-                        </td>  
- </tr>">Revising Aggregations - Averages</a></td>
+        <td align="center"> <a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29
+</td>  
+ </tr>">Average Population</a></td>
                         <td align="center"> <a
                                         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Revising%20Aggregations%20-%20Averages">Query29/a>
                         </td>  
