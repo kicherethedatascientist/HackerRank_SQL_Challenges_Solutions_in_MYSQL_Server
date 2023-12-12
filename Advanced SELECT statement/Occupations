@@ -1,9 +1,11 @@
-select 
+-- Author: kichere The Data Scientist
+-- MYSQL server
+SELECT 
   Doctor,
   professor,
   Singer, 
   Actor
-from (
+FROM (
 SELECT 
   Nameorder,
   MAX(CASE WHEN occupation = 'Doctor' THEN Name END) AS Doctor,
