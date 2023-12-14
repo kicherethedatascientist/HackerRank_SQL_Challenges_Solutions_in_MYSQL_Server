@@ -208,12 +208,9 @@
         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20SUM%20function">Query27</a>
                         </td>  
  </tr>
-
+<!--
  <tr>
-   <!--                      
-</td>  
- </tr>
- -->
+-->
 </body>
  
 </table>
