@@ -175,19 +175,17 @@
 <td align="center"><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Advanced%20SELECT%20statement/Occupations">Query23</a></td>
 </tr>
 
-<!--
 
 <tr>
 <td align="center">24</td>
 <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem" rel="nofollow">Binary Tree Nodes</a></td>
-<td align="center"><a href="">Query24</a></td>
+<td align="center"><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Advanced%20SELECT%20statement/Binary%20Tree%20Nodes">Query24</a></td>
 </tr>
 <tr>
 <td align="center">25</td>
 <td><a href="https://www.hackerrank.com/challenges/the-company/problem" rel="nofollow">New Companies</a></td>
 <td align="center"><a href="">Query25</a></td>
 </tr>
--->
 
 <tr>
                     <td align="center" colspan="3">AGGREGATION statements </td>   
