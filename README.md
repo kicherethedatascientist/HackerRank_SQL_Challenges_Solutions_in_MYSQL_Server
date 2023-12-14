@@ -201,26 +201,16 @@
                         </td>  
                 </tr>
  <tr>
-                        <td align="center">27</td>
-                        <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true"
+        <td align="center">27</td>
+        <td><a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true"
                                         rel="nofollow">The SUM function</a></td>
-                        <td align="center"> <a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20SUM%20function">Query27</a>
+         <td align="center"> <a                                                   
+        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20SUM%20function">Query27</a>
                         </td>  
  </tr>
 
  <tr>
-                        <td align="center">28</td>
-                       <t d><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a></td>
-                        <td align="center"> <a
-                              <td align="center">28</td>
-                       <t d><a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Revising Aggregations - Averages</a></td>           href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Revising%20Aggregations%20-%20Averages">Query28</a>
-                        </td>  
- </tr>
- <tr>
-                      
-        <td align="center"> <a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29
+                       
 </td>  
  </tr>
  
