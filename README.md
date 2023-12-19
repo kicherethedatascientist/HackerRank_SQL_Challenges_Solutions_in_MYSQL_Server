@@ -215,6 +215,9 @@
                         </td>  
  </tr>
 
+<tr>
+                    <td align="center" colspan="3">BASIC  JOIN </td>   
+</tr>
 
 
 </body>
