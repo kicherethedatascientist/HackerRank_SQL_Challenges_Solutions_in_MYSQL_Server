@@ -65,7 +65,8 @@
                         <td align="center">8</td>
                         <td><a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true"
                                         rel="nofollow">Revising the Select Query I</a></td>
-                        <td><a href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Revising%20the%20Select%20Query%20I">Query8</a>
+                        <td><a href="https://github.com/kicherethedatascientistFBASIC J
+                                    /HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Revising%20the%20Select%20Query%20I">Query8</a>
                         </td>
                 </tr>
                 <tr>
@@ -216,9 +217,16 @@
  </tr>
 
 <tr>
-                    <td align="center" colspan="3">BASIC  JOIN </td>   
+                    <td align="center" colspan="3">BASIC JOIN </td>
+        
 </tr>
-
+  <tr>
+                        <td align="center">2*</td>
+                        <td><a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">The COUNT Function</a></td>
+                        <td align="center"> <a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20count%20function">Query26</a>
+                        </td>  
+                </tr>
 
 </body>
  
