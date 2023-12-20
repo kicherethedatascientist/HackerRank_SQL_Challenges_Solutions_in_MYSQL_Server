@@ -33,7 +33,8 @@
                                     href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/Basic%20SELECT/Select%20By%20ID">Query3</a>
                         </td>
                 </tr>
-                <tr>
+                <tr>fcen
+                        
                         <td align="center">4</td>
                         <td><a href="https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true"
                                         rel="nofollow">Weather Observation Station 1</a></td>
@@ -217,15 +218,17 @@
  </tr>
 
 <tr>
-                    <td align="center" colspan="3">BASIC JOIN </td>
+                    <td align="center" colspan="3">Basic JOIN </td>
         
 </tr>
-  <tr>
-                        <td align="center"> i </td>
-                        <td><a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true"> Population Census<a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Basic%20JOIN/Population%20Census">Query</a>
+
+   <tr>
+        <td align="center">i</td>
+        <td><a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">Population Census</a></td>
+         <td align="center"> <a                                                   
+        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Basic%20JOIN/Population%20Census">Query</a>
                         </td>  
-                </tr>
+ </tr>
 
 </body>
  
