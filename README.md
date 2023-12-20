@@ -233,7 +233,7 @@
         <td align="center">ii</td>
         <td><a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">African Cities</a></td>
          <td align="center"> <a                                                   
-        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/new/main/Basic%20JOIN">Query</a>
+        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Basic%20JOIN/African%20Cities">Query</a>
                         </td>  
 </tr>
 
