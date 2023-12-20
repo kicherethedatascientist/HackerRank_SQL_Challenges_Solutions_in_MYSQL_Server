@@ -221,10 +221,9 @@
         
 </tr>
   <tr>
-                        <td align="center">2*</td>
-                        <td><a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">The COUNT Function</a></td>
-                        <td align="center"> <a
-                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions/blob/main/AGGREGATIONS%20STATEMENTS/The%20count%20function">Query26</a>
+                        <td align="center"> i </td>
+                        <td><a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true"> Population Census<a
+                                        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Basic%20JOIN/Population%20Census">Query</a>
                         </td>  
                 </tr>
 
