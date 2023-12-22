@@ -221,6 +221,12 @@
         <td><a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a></td>
          <td align="center"> <a                                                   
         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29</a>
+
+<tr>
+        <td align="center">30</td>
+        <td><a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true">Japan Population</a></td>
+         <td align="center"> <a                                                   
+href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Japan%20Population">Query30</a>
                         </td>  
  </tr>
 
@@ -240,7 +246,8 @@
 <tr>
         <td align="center">ii</td>
         <td><a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">African Cities</a></td>
-         <td align="center"> <a                                                   
+         <td align="center"f30
+                 > <a                                                   
         href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/Basic%20JOIN/African%20Cities">Query</a>
                         </td>  
 </tr>
