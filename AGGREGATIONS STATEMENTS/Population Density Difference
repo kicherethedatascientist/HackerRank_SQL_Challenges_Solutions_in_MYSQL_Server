@@ -1,0 +1,4 @@
+-- Kichere The Data Scientist
+
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY ;
