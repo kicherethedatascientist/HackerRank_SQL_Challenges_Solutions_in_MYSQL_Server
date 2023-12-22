@@ -216,6 +216,14 @@
                         </td>  
  </tr>
 
+  <tr>
+        <td align="center">29</td>
+        <td><a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a></td>
+         <td align="center"> <a                                                   
+        href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Average%20Population">Query29</a>
+                        </td>  
+ </tr>
+
 <tr>
                     <td align="center" colspan="3">Basic JOIN </td>
         
