@@ -229,6 +229,13 @@
 href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Japan%20Population">Query30</a>
                         </td>  
  </tr>
+<tr>
+        <td align="center">31</td>
+        <td><a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Population Density Difference</a></td>
+         <td align="center"> <a                                                   
+href="https://github.com/kicherethedatascientist/HackerRank_SQL_Challenges_Solutions_in_MYSQL_Server/blob/main/AGGREGATIONS%20STATEMENTS/Population%20Density%20Difference">Query31</a>
+                        </td>  
+ </tr>
 
 <tr>
                     <td align="center" colspan="3">Basic JOIN </td>
